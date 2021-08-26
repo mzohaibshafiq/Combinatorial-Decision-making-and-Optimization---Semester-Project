@@ -1,0 +1,21 @@
+20nstance num 
+
+--max height = 27
+--width =27
+--X coordinates [24, 18, 24, 12, 15, 21, 24, 24, 18, 18, 21, 15, 12, 8, 8, 8, 0, 4, 8, 4, 0]
+--Y coordinates [15, 12, 10, 21, 20, 19, 18, 0, 16, 0, 0, 0, 0, 20, 23, 14, 20, 19, 0, 0, 0]
+--X dimensions [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4]
+--Y dimensions [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 19, 20, 21, 3, 4, 6, 7, 8, 14, 19, 20]
+% time elapsed: 5.85 s
+----------
+%%%mzn-stat: initTime=0.000502
+%%%mzn-stat: solveTime=5.71993
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=43
+%%%mzn-stat: propagators=26
+%%%mzn-stat: propagations=3842376
+%%%mzn-stat: nodes=680020
+%%%mzn-stat: failures=339949
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=58
+%%%mzn-stat-end

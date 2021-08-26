@@ -1,0 +1,22 @@
+16nstance num 
+
+--max height = 23
+--width =23
+--X coordinates [6, 9, 9, 20, 20, 0, 3, 16, 3, 0, 9, 6, 16, 19, 19, 16, 12, 12, 0]
+--Y coordinates [20, 14, 18, 0, 6, 3, 3, 13, 12, 11, 0, 0, 10, 13, 17, 0, 0, 11, 0]
+--X dimensions [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 6]
+--Y dimensions [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 20, 3, 4, 6, 10, 11, 12, 3]
+% time elapsed: 23.82 s
+----------
+%%%mzn-stat: initTime=0.00047
+%%%mzn-stat: solveTime=23.6883
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=39
+%%%mzn-stat: propagators=24
+%%%mzn-stat: propagations=18607735
+%%%mzn-stat: nodes=3749702
+%%%mzn-stat: failures=1874793
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=57
+%%%mzn-stat-end
+Finished in 23s 832msec

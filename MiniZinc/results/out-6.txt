@@ -1,0 +1,22 @@
+6nstance num 
+
+--max height = 13
+--width =13
+--X coordinates [10, 10, 7, 10, 0, 7, 3, 3, 0]
+--Y coordinates [6, 9, 0, 0, 6, 5, 6, 9, 0]
+--X dimensions [3, 3, 3, 3, 3, 3, 4, 4, 7]
+--Y dimensions [3, 4, 5, 6, 7, 8, 3, 4, 6]
+% time elapsed: 0.13 s
+----------
+%%%mzn-stat: initTime=0.000351
+%%%mzn-stat: solveTime=0.000518
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=19
+%%%mzn-stat: propagators=14
+%%%mzn-stat: propagations=233
+%%%mzn-stat: nodes=28
+%%%mzn-stat: failures=3
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=23
+%%%mzn-stat-end
+Finished in 156msec

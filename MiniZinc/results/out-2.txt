@@ -1,0 +1,23 @@
+2nstance num
+
+
+--max height = 9
+--width =9
+--X coordinates [3, 6, 6, 3, 0]
+--Y coordinates [6, 0, 4, 0, 0]
+--X dimensions [3, 3, 3, 3, 3]
+--Y dimensions [3, 4, 5, 6, 9]
+% time elapsed: 0.14 s
+----------
+%%%mzn-stat: initTime=0.000406
+%%%mzn-stat: solveTime=0.000521
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=11
+%%%mzn-stat: propagators=10
+%%%mzn-stat: propagations=91
+%%%mzn-stat: nodes=12
+%%%mzn-stat: failures=0
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=11
+%%%mzn-stat-end
+Finished in 158msec

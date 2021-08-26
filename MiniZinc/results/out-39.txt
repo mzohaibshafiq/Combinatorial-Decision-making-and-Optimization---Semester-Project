@@ -1,0 +1,23 @@
+39nstance num 
+
+
+--max height = 60
+--width =30
+--X coordinates [12, 21, 21, 3, 14, 23, 23, 23, 18, 27, 0, 18, 0, 0, 22, 18, 22, 12, 0, 0, 14, 24, 21, 12, 27, 20, 24, 0]
+--Y coordinates [0, 11, 0, 0, 36, 19, 32, 27, 38, 19, 12, 55, 33, 46, 38, 36, 52, 24, 17, 31, 33, 43, 19, 33, 25, 24, 27, 0]
+--X dimensions [9, 9, 9, 9, 4, 4, 1, 1, 4, 3, 3, 12, 12, 14, 2, 2, 8, 8, 12, 12, 6, 6, 2, 2, 3, 3, 3, 3]
+--Y dimensions [24, 8, 11, 17, 24, 8, 6, 5, 17, 6, 5, 5, 13, 14, 14, 2, 3, 9, 14, 2, 3, 9, 5, 13, 18, 14, 16, 12]
+% time elapsed: 190.67 s
+----------
+%%%mzn-stat: initTime=0.000575
+%%%mzn-stat: solveTime=190.522
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=57
+%%%mzn-stat: propagators=33
+%%%mzn-stat: propagations=70989181
+%%%mzn-stat: nodes=21441553
+%%%mzn-stat: failures=10720714
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=92
+%%%mzn-stat-end
+Finished in 3m 10s
